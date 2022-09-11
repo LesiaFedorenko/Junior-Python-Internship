@@ -1,13 +1,15 @@
 # Junior-Python-Internship
 
+### Task
+From the website, https://www.kijiji.ca/b-apartments-condos/city-of-toronto/c37l1700273 collected all ads, pagination includes.
+Saved database dump to SQL file.
 
 ### Install 
-Using Docker. Run by command in data_project directory:
+Using Docker. Run by command:
 
 ```
 docker compose up -d
 ```
-
 
 ### Install Pipenv
 Pipenv is a new popular way of automatically creating a 'virtualenv' for the project. It creates Pipfile and Pipfile.lock.
